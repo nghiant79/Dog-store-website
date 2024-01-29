@@ -1,2 +1,3 @@
 # Dog-store-website
-The website will revolve around the portfolio and services of a professional photographer, highlighting their photography skills, products such as prints or albums, a blog section for photography tips and stories, an "About Us" page to introduce the photographer, and a "Contact Us" page for inquiries and bookings.![image](https://github.com/nghiant79/Dog-store-website/assets/154486947/56f93c01-c07e-40ff-ad19-33511d4ddc08)
+This Dog Store project would encompass five main pages: Home, Product, Gallery, Contact Us, Blog
+Language: HTML, CSS, Java Script
